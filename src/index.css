@@ -9,8 +9,7 @@ HTML {
 }
 .logo {
     padding-top: 35px;
-    max-width: 30%;
-    display: inline-block;
+    width: 30%;
 }
 .logoLine {
     width: 55%;
